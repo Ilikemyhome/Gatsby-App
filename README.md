@@ -22,15 +22,15 @@ Inline styles keep the project clean and easy to understand.
 
 ## Running the Project
 1. Install dependencies
-npm install
+ `npm install`
 
 
 2. Start the development server
-npm run develop
+ `npm run develop`
 
 
 3. Open the site
-http://localhost:8000/
+ `http://localhost:8000/`
 
 
 ## Pages
